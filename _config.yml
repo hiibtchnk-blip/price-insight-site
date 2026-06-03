@@ -1,0 +1,12 @@
+title: Price Insight
+description: ふるさと納税・補助金の価格データ公開アーカイブ
+lang: ja
+theme: minima
+permalink: /:path/
+
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
