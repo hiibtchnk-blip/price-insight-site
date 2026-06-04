@@ -3,7 +3,7 @@ title: "【2026-06-04】今週の補助金 締切間近＆新着まとめ"
 date: 2026-06-04
 category: "補助金"
 tags: ["補助金", "助成金", "中小企業"]
-description: "2026-06-04時点で締切間近 7件・新着 57件。jグランツ公開データから中小企業向けに集計。"
+description: "2026-06-04時点で締切間近 9件・新着 58件。jグランツ公開データから中小企業向けに集計。"
 draft: false
 ---
 本ページは **2026-06-04** 時点の jグランツ（デジタル庁）公開データをもとに、締切が近い補助金と新着の補助金をまとめた無料の週次アーカイブです。
@@ -11,13 +11,15 @@ draft: false
 ## ⏰ 締切間近の補助金
 | 残り日数 | 補助金 | 対象地域 | 上限額 | 詳細 |
 |---|---|---|---|---|
-| 残り0日 | 「バイオものづくりにおける環境価値等の可視化と市場形成に関する調査」の公募 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYiIMAX) |
-| 残り1日 | 令和８年度　熱利活用事業（国庫債務負担行為事業分）　第１次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXLdMAP) |
-| 残り1日 | 令和８年度　電力利活用事業（国庫債務負担行為事業分）　第１次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXLYMA5) |
-| 残り6日 | 令和８年度「エネルギー需給構造高度化基準認証推進事業費補助金」 | 全国 | 20,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvdMAH) |
-| 残り7日 | 令和８年度　ＺＥＢ実証事業 | 全国 | 700,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYoeMAH) |
-| 残り7日 | 【広島県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業） | 広島県 | 3,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqMMAX) |
-| 残り8日 | 令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYeLMAX) |
+| 残り0日 | 令和８年度　熱利活用事業（国庫債務負担行為事業分）　第１次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXLdMAP) |
+| 残り0日 | 令和８年度　電力利活用事業（国庫債務負担行為事業分）　第１次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXLYMA5) |
+| 残り5日 | 令和８年度「エネルギー需給構造高度化基準認証推進事業費補助金」 | 全国 | 20,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvdMAH) |
+| 残り6日 | 令和８年度　ＺＥＢ実証事業 | 全国 | 700,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYoeMAH) |
+| 残り6日 | 【広島県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業） | 広島県 | 3,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqMMAX) |
+| 残り7日 | 令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYeLMAX) |
+| 残り14日 | 2026年度「中小企業競争力強化促進事業業」（市場対応型製品開発支援事業【共同研究開発】） | 北海道 | 5,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYnLMAX) |
+| 残り14日 | 2026年度「中小企業競争力強化促進事業業」（市場対応型製品開発支援事業【特定産業分野】） | 北海道 | 5,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYnGMAX) |
+| 残り14日 | 【青森県】令和8年度青森県産業DXモデル創出支援事業費補助金 | 青森県 | 4,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzBMAX) |
 
 ## 🆕 新着の補助金
 - 【三重県　鈴鹿市】令和8年度創業促進補助金（三重県・上限300,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYsSMAX)
