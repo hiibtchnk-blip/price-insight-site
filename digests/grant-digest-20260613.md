@@ -3,7 +3,7 @@ title: "【2026-06-13】今週の補助金 締切間近＆新着まとめ"
 date: 2026-06-13
 category: "補助金"
 tags: ["補助金", "助成金", "中小企業"]
-description: "2026-06-13時点で締切間近 6件・新着 5件。jグランツ公開データから中小企業向けに集計。"
+description: "2026-06-13時点で締切間近 6件・新着 4件。jグランツ公開データから中小企業向けに集計。"
 draft: false
 ---
 本ページは **2026-06-13** 時点の jグランツ（デジタル庁）公開データをもとに、締切が近い補助金と新着の補助金をまとめた無料の週次アーカイブです。
@@ -11,15 +11,14 @@ draft: false
 ## ⏰ 締切間近の補助金
 | 残り日数 | 補助金 | 対象地域 | 上限額 | 詳細 |
 |---|---|---|---|---|
-| 残り6日 | 2026年度「中小企業競争力強化促進事業業」（市場対応型製品開発支援事業【共同研究開発】） | 北海道 | 5,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYnLMAX) |
-| 残り6日 | 2026年度「中小企業競争力強化促進事業業」（市場対応型製品開発支援事業【特定産業分野】） | 北海道 | 5,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYnGMAX) |
-| 残り6日 | 【青森県】令和8年度青森県産業DXモデル創出支援事業費補助金 | 青森県 | 4,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzBMAX) |
-| 残り10日 | 2026年度「脱炭素社会実現に向けた省エネルギー技術の研究開発・社会実装促進プログラム」の公募 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWnvMAH) |
-| 残り11日 | 令和８年度 スマート保安実証支援事業費補助金（技術実証支援）_令和８年度_第１回 | 全国 | 30,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZxtMAH) |
-| 残り13日 | 「AIエッジコンピューティング技術領域に係る知財戦略・標準化戦略調査」の公募 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZXWMA5) |
+| 残り5日 | 2026年度「中小企業競争力強化促進事業業」（市場対応型製品開発支援事業【共同研究開発】） | 北海道 | 5,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYnLMAX) |
+| 残り5日 | 2026年度「中小企業競争力強化促進事業業」（市場対応型製品開発支援事業【特定産業分野】） | 北海道 | 5,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYnGMAX) |
+| 残り5日 | 【青森県】令和8年度青森県産業DXモデル創出支援事業費補助金 | 青森県 | 4,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzBMAX) |
+| 残り9日 | 2026年度「脱炭素社会実現に向けた省エネルギー技術の研究開発・社会実装促進プログラム」の公募 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWnvMAH) |
+| 残り10日 | 令和８年度 スマート保安実証支援事業費補助金（技術実証支援）_令和８年度_第１回 | 全国 | 30,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZxtMAH) |
+| 残り12日 | 「AIエッジコンピューティング技術領域に係る知財戦略・標準化戦略調査」の公募 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZXWMA5) |
 
 ## 🆕 新着の補助金
-- 令和８年度 脱炭素成長型経済構造移行推進対策費補助金 （業務用建築物の脱炭素改修加速化事業）（全国・上限1,000,000,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD)
 - 令和８年度　ＦＳ調査事業　第２次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】（全国・上限記載なし） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqvMAH)
 - 令和８年度　熱利活用事業（単年度事業分）　第２次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】（全国・上限記載なし） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqqMAH)
 - 令和８年度　電力利活用事業（単年度事業分）　第２次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】（全国・上限記載なし） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqlMAH)
