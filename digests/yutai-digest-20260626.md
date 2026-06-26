@@ -3,7 +3,7 @@ title: "【2026-06-26】今週の株主優待 新設・変更・廃止まとめ"
 date: 2026-06-26
 category: "株主優待"
 tags: ["株主優待", "適時開示", "投資"]
-description: "2026-06-26時点で新設4件・変更2件・廃止2件。TDnet適時開示から集計。"
+description: "2026-06-26時点で新設2件・変更2件・廃止2件。TDnet適時開示から集計。"
 draft: false
 ---
 本ページは **2026-06-26** 時点のTDnet（適時開示）の公開情報をもとに、株主優待の新設・変更・廃止をまとめた無料の週次リストです。
@@ -11,10 +11,8 @@ draft: false
 ## 🆕 株主優待の新設
 | 会社 | 開示 | 詳細 |
 |---|---|---|
+| 大崎電 | 株主優待制度導入に関するお知らせ | [開示PDF](https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260626581542.pdf) |
 | コーセル | 株主優待制度導入に関するお知らせ | [開示PDF](https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260617572691.pdf) |
-| 丸八ホールディングス | 株主優待制度の導入に関するお知らせ | [開示PDF](https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260617572297.pdf) |
-| Ｊトラスト | 特別株主優待の実施に関するお知らせ | [開示PDF](https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260616571453.pdf) |
-| 富士急 | 創立100周年記念株主優待の実施に関するお知らせ | [開示PDF](https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260617572290.pdf) |
 
 ## 🔧 株主優待の変更・拡充
 | 会社 | 開示 | 詳細 |
