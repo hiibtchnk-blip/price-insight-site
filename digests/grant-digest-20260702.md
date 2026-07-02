@@ -3,7 +3,7 @@ title: "【2026-07-02】今週の補助金 締切間近＆新着まとめ"
 date: 2026-07-02
 category: "補助金"
 tags: ["補助金", "助成金", "中小企業"]
-description: "2026-07-02時点で締切間近 5件・新着 11件。jグランツ公開データから中小企業向けに集計。"
+description: "2026-07-02時点で締切間近 10件・新着 3件。jグランツ公開データから中小企業向けに集計。"
 draft: false
 ---
 本ページは **2026-07-02** 時点の jグランツ（デジタル庁）公開データをもとに、締切が近い補助金と新着の補助金をまとめた無料の週次アーカイブです。
@@ -11,21 +11,18 @@ draft: false
 ## ⏰ 締切間近の補助金
 | 残り日数 | 補助金 | 対象地域 | 上限額 | 詳細 |
 |---|---|---|---|---|
-| 残り1日 | 令和８年度　ＦＳ調査事業　第２次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqvMAH) |
-| 残り1日 | 令和８年度　熱利活用事業（単年度事業分）　第２次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqqMAH) |
-| 残り1日 | 令和８年度　電力利活用事業（単年度事業分）　第２次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqlMAH) |
-| 残り11日 | 「バイオものづくり分野のLCAガイドラインの改善及び普及に向けた調査」の公募 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa47MAD) |
-| 残り14日 | 【二次公募】令和８年度　二酸化炭素排出抑制対策事業費等補助金　再エネ等熱利用設備導入事業 【再エネ熱】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1WMAT) |
+| 残り0日 | 令和８年度　ＦＳ調査事業　第２次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqvMAH) |
+| 残り0日 | 令和８年度　熱利活用事業（単年度事業分）　第２次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqqMAH) |
+| 残り0日 | 令和８年度　電力利活用事業（単年度事業分）　第２次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqlMAH) |
+| 残り10日 | 「バイオものづくり分野のLCAガイドラインの改善及び普及に向けた調査」の公募 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa47MAD) |
+| 残り13日 | 【二次公募】令和８年度　二酸化炭素排出抑制対策事業費等補助金　再エネ等熱利用設備導入事業 【再エネ熱】 | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1WMAT) |
+| 残り14日 | 【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（テナントビルの省CO2改修支援事業） | 全国 | 40,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSxMAL) |
+| 残り14日 | 【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（民間建築物等における省CO2改修支援事業） | 全国 | 35,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSsMAL) |
+| 残り14日 | 【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（ライフサイクルカーボン削減型の先導的な新築ZEB支援事業） | 全国 | 500,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSjMAL) |
+| 残り14日 | 【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（新築建築物のZEB普及促進支援事業/既存建築物のZEB化普及促進支援事業） | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSiMAL) |
+| 残り14日 | 令和８年度 第１回 事業承継支援助成金 | 東京都 | 2,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvOMAX) |
 
 ## 🆕 新着の補助金
-- 【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（テナントビルの省CO2改修支援事業）（全国・上限40,000,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSxMAL)
-- 【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（民間建築物等における省CO2改修支援事業）（全国・上限35,000,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSsMAL)
-- 【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（ライフサイクルカーボン削減型の先導的な新築ZEB支援事業）（全国・上限500,000,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSjMAL)
-- 【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（新築建築物のZEB普及促進支援事業/既存建築物のZEB化普及促進支援事業）（全国・上限記載なし） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSiMAL)
-- 交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（全国・上限記載なし） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDO8eMAH)
-- 【令和８年度】二酸化炭素排出抑制対策事業費等補助金（再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業）（全国・上限300,000,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaotMAD)
-- 【令和８年度】二酸化炭素排出抑制対策事業費等補助金（地域再エネ水素ステーション保守点検等支援事業）（全国・上限2,200,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzQMAX)
-- 事業再構築補助金（共同申請_リース会社）（全国・上限150,000,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UaiqSEAR)
 - 小樽市省エネルギー診断補助金（北海道・上限50,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyyMAD)
 - 橿原市起業等スタートアップ補助金（奈良県・上限500,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbz0MAD)
 - 令和8年度 航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）（東京都・上限100,000,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZBgMAP)
