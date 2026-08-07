@@ -3,7 +3,7 @@ title: "【2026-08-07】今週の補助金 締切間近＆新着まとめ"
 date: 2026-08-07
 category: "補助金"
 tags: ["補助金", "助成金", "中小企業"]
-description: "2026-08-07時点で締切間近 6件・新着 4件。jグランツ公開データから中小企業向けに集計。"
+description: "2026-08-07時点で締切間近 5件・新着 5件。jグランツ公開データから中小企業向けに集計。"
 draft: false
 ---
 本ページは **2026-08-07** 時点の jグランツ（デジタル庁）公開データをもとに、締切が近い補助金と新着の補助金をまとめた無料の週次アーカイブです。
@@ -11,15 +11,15 @@ draft: false
 ## ⏰ 締切間近の補助金
 | 残り日数 | 補助金 | 対象地域 | 上限額 | 詳細 |
 |---|---|---|---|---|
-| 残り0日 | 令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（二次公募） | 全国 | 記載なし | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0OMAT) |
-| 残り7日 | 令和8年度 航空宇宙産業への参入支援事業（宇宙製品等開発経費助成） | 東京都 | 100,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZBgMAP) |
-| 残り10日 | 令和８年度　ＺＥＢ実証事業（二次公募） | 全国 | 700,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdbJMAT) |
-| 残り10日 | 令和８年度地域資源活用製品等の開発・販売促進事業 | 東京都 | 15,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdapMAD) |
-| 残り12日 | 2026年度「地域課題解決型起業支援事業」（2次募集） | 北海道 | 2,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYirMAH) |
-| 残り14日 | 【広島県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第２回募集） | 広島県 | 3,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdr3MAD) |
+| 残り6日 | 令和8年度 航空宇宙産業への参入支援事業（宇宙製品等開発経費助成） | 東京都 | 100,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZBgMAP) |
+| 残り9日 | 令和８年度　ＺＥＢ実証事業（二次公募） | 全国 | 700,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdbJMAT) |
+| 残り9日 | 令和８年度地域資源活用製品等の開発・販売促進事業 | 東京都 | 15,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdapMAD) |
+| 残り11日 | 2026年度「地域課題解決型起業支援事業」（2次募集） | 北海道 | 2,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYirMAH) |
+| 残り13日 | 【広島県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第２回募集） | 広島県 | 3,000,000円 | [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdr3MAD) |
 
 ## 🆕 新着の補助金
 - 令和８年度国際ルール形成・市場創造型標準化推進事業費補助金（２次公募）（全国・上限記載なし） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdKuMAL)
+- 令和８年度「蓄電池等の製品の持続可能性向上に向けた基盤整備・実証事業」（全国・上限720,000,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDctfMAD)
 - 【広島県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第２回募集）（広島県・上限3,000,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdr3MAD)
 - 令和８年度 第２回 事業承継支援助成金（東京都・上限2,000,000円） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdauMAD)
 - 【福岡県宗像市】令和8年度 宗像市創業応援補助金（“宗業”者応援補助金）（福岡県・上限記載なし） [公式](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddaMAD)
