@@ -3,7 +3,7 @@ title: "【2026-09-15】ふるさと納税 牛肉 もうすぐ改定（実質値
 date: 2026-09-15
 category: "牛肉"
 tags: ["ふるさと納税", "牛肉", "改定", "値上げ"]
-description: "2026-09-15時点で改定予告 0件・値上げ実績 3件。改定前の駆け込み判断に。"
+description: "2026-09-15時点で改定予告 0件・値上げ実績 2件。改定前の駆け込み判断に。"
 draft: false
 ---
 本ページは **2026-09-15** 時点の楽天ふるさと納税の公開情報をもとに、牛肉の返礼品で「寄附額の改定（実質的な値上げ）」が予告・確認されたものをまとめた無料の週次リストです。
@@ -14,7 +14,6 @@ draft: false
 ## 📈 値上げが確認された返礼品（前回比）
 | 返礼品 | 前回100g単価 | 現在100g単価 | 上昇率 |
 |---|---|---|---|
-| [【ふるさと納税】【楽天セレクション】ランキング総合2位！ 牛肉 すき焼き 京都丹波産黒毛和牛 A4A5 切り落とし 450g～1.8kg［選べる スライス ステーキ 定期便 ］小分け 訳あり ふるさと納税 焼肉 ふるさと納税牛肉 京の肉ひら山【期間限定 先行予約】](https://hb.afl.rakuten.co.jp/hgc/g00sjgom.xmfg583f.g00sjgom.xmfg6a33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff262064-kameoka%2F8562-30023089%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff262064-kameoka%2Fi%2F10000570%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 306円 | 444円 | +45.4% |
 | [【ふるさと納税】【最強翌日配送】高評価★4.55 総合1位 やわらか 牛タン 400g～2.4kg（ 厚切り 薄切り ）（ ふるさと納税 牛タン 小分け 牛 牛肉 焼肉 焼き肉 ふるさと納税 訳あり お肉 ふるさと 最強配送 人気 ランキング 北海道 別海町 ）（クラウドファンディング対象）](https://hb.afl.rakuten.co.jp/hgc/g00tkt0m.xmfg5a77.g00tkt0m.xmfg6fd6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016918-betsukai%2Fns0000020%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016918-betsukai%2Fi%2F10004947%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 250円 | 292円 | +16.7% |
 | [【ふるさと納税】【内容量＆パッケージ＆発送時期が選べる！】宮崎牛切り落とし - 宮崎県産宮崎牛 切り落とし 1kg/1.5kg 真空/トレー ブランド牛肉 A4ランク(A4等級) お届け時期が選べる 送料無料 SKU-8909【宮崎県都城市】](https://hb.afl.rakuten.co.jp/hgc/g00s7umm.xmfg5c5c.g00s7umm.xmfg68ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452025-miyakonojo%2Fmj-8908%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452025-miyakonojo%2Fi%2F10000279%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 933円 | 1000円 | +7.1% |
 
