@@ -3,7 +3,7 @@ title: "【2026-10-17】ふるさと納税 牛肉 もうすぐ改定（実質値
 date: 2026-10-17
 category: "牛肉"
 tags: ["ふるさと納税", "牛肉", "改定", "値上げ"]
-description: "2026-10-17時点で改定予告 0件・値上げ実績 7件。改定前の駆け込み判断に。"
+description: "2026-10-17時点で改定予告 0件・値上げ実績 6件。改定前の駆け込み判断に。"
 draft: false
 ---
 本ページは **2026-10-17** 時点の楽天ふるさと納税の公開情報をもとに、牛肉の返礼品で「寄附額の改定（実質的な値上げ）」が予告・確認されたものをまとめた無料の週次リストです。
@@ -14,7 +14,6 @@ draft: false
 ## 📈 値上げが確認された返礼品（前回比）
 | 返礼品 | 前回100g単価 | 現在100g単価 | 上昇率 |
 |---|---|---|---|
-| [【ふるさと納税】＜選べる量・回数・配送月＞ 黒毛和牛 (博多和牛) 切り落とし 計400g/計600g/計1kg/計1.6kg/計2kg/計4kg 1回 6回【伊豆丸商店】 国産牛 牛肉 黒毛和牛 肉 ブランド牛 博多和牛 小分けパック 小分け 薄切り 定期便 切り落とし 大容量](https://hb.afl.rakuten.co.jp/hgc/g00sq9rm.xmfg56ad.g00sq9rm.xmfg6def/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff402206-munakata%2F20190701-479%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff402206-munakata%2Fi%2F10000339%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 125円 | 200円 | +60.0% |
 | [【ふるさと納税】令和8年熊本地震復興支援 牛肉 すき焼き くまもと黒毛和牛 赤身スライス 600g 900g 1.2kg 【選べる内容量・発送月】 小分け パック お肉 和牛 黒毛和牛 国産牛 ブランド牛 赤身 スライス モモ ウデ 厳選 すき焼き](https://hb.afl.rakuten.co.jp/hgc/g00t3k8m.xmfg5260.g00t3k8m.xmfg6328/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff432024-yatsushiro%2F067-3059%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff432024-yatsushiro%2Fi%2F10002198%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 792円 | 1083円 | +36.8% |
 | [【ふるさと納税】【発送時期が選べる！】宮崎牛赤身スライス(500g×2P) - 宮崎県産宮崎牛 国産牛肉 宮崎牛スライス 国産牛スライス 和牛スライス モモ/ウデ/カタ すきやき 冷凍 牛肉 A4ランク以上 薄切り 送料無料 N4-020【宮崎県都城市】](https://hb.afl.rakuten.co.jp/hgc/g00s7umm.xmfg5c5c.g00s7umm.xmfg68ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452025-miyakonojo%2Fmj-n402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452025-miyakonojo%2Fi%2F10007438%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 1700円 | 2200円 | +29.4% |
 | [【ふるさと納税】 松阪牛 焼肉 300g カタ モモ バラ 肉 牛肉 国産 BBQ バーベキュー 冷凍 厳選 霜降り肉 お肉 国産 ブランド牛 三重県産 松阪牛 松坂牛 和牛 柔らか ギフト 贈答 まるよし 三重県 玉城町](https://hb.afl.rakuten.co.jp/hgc/g00tp6ym.xmfg5d86.g00tp6ym.xmfg69b3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff244619-tamaki%2F4712645%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff244619-tamaki%2Fi%2F10000016%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 4667円 | 5667円 | +21.4% |
