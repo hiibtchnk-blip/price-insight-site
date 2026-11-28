@@ -1,0 +1,37 @@
+---
+title: "【2026-11-28】ふるさと納税 牛肉 もうすぐ改定（実質値上げ）リスト"
+date: 2026-11-28
+category: "牛肉"
+tags: ["ふるさと納税", "牛肉", "改定", "値上げ"]
+description: "2026-11-28時点で改定予告 0件・値上げ実績 7件。改定前の駆け込み判断に。"
+draft: false
+---
+本ページは **2026-11-28** 時点の楽天ふるさと納税の公開情報をもとに、牛肉の返礼品で「寄附額の改定（実質的な値上げ）」が予告・確認されたものをまとめた無料の週次リストです。
+
+## ⏰ もうすぐ改定（予告あり）
+現在、改定日が明記された返礼品はありません。
+
+## 📈 値上げが確認された返礼品（前回比）
+| 返礼品 | 前回100g単価 | 現在100g単価 | 上昇率 |
+|---|---|---|---|
+| [【ふるさと納税】【選べる 12月発送】ランキング総合1位！ 牛肉 黒毛和牛 京都丹波産 A4A5 赤身 切り落とし スライス 300g 600g 1.2kg 小分け 冷凍 選べる 定期便 訳あり 不揃い 国産 すきやき すき焼き 焼肉 京の肉ひら山【年内発送】](https://hb.afl.rakuten.co.jp/hgc/g00sjgom.xmfg583f.g00sjgom.xmfg6a33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff262064-kameoka%2F8562-30009789%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff262064-kameoka%2Fi%2F10000279%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 583円 | 1167円 | +100.0% |
+| [【ふるさと納税】令和8年熊本地震復興支援 訳あり 黒毛和牛 牛肉 切り落とし 小分け パック 冷凍 600g〜1.2kg くまもと黒毛和牛【選べる内容量・発送月】 霜降り 部位ミックス 毎月数量限定 限定 国産牛 ブランド牛 国産 黒毛和牛 お肉](https://hb.afl.rakuten.co.jp/hgc/g00t3k8m.xmfg5260.g00t3k8m.xmfg6328/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff432024-yatsushiro%2F067-2300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff432024-yatsushiro%2Fi%2F10001949%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 750円 | 1000円 | +33.3% |
+| [【ふるさと納税】【選べる発送月・内容量・定期便】佐賀牛 A5 厳選部位 しゃぶしゃぶ・すき焼用 ロース・モモ・ウデ or リブロース 400g ~ 1.6kg 肉 牛肉 a5 しゃぶしゃぶ すき焼き 年内発送 年内配送 高評価 大人気 佐賀県嬉野市/桑原畜産 [NAB001］](https://hb.afl.rakuten.co.jp/hgc/g00tr2nm.xmfg5e22.g00tr2nm.xmfg6fbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff412091-ureshino%2Fnab001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff412091-ureshino%2Fi%2F10001419%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 750円 | 938円 | +25.0% |
+| [【ふるさと納税】高評価★4.9 厳選A5-A4 山形牛 ヒレステーキ130g 選べる 2枚 〜 5枚 fz22-394 山形 お取り寄せ 送料無料 ブランド牛](https://hb.afl.rakuten.co.jp/hgc/g00t3rom.xmfg5e22.g00t3rom.xmfg64aa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff062014-yamagata%2Ffy19-342%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff062014-yamagata%2Fi%2F10002500%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 16154円 | 17692円 | +9.5% |
+| [【ふるさと納税】牛肉 高評価★4.7 京丹波姫牛 選べる 肩ロース・赤身 スライス 700g［冷蔵・冷凍］京都産黒毛和牛 すき焼き しゃぶしゃぶ《京丹波かぐら》焼肉 赤身 ロース 霜降り 熟成 肉 和牛 丹波産 国産 ふるさと納税 牛肉](https://hb.afl.rakuten.co.jp/hgc/g00sjgom.xmfg583f.g00sjgom.xmfg6a33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff262064-kameoka%2F8584-30019347%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff262064-kameoka%2Fi%2F10000533%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 3000円 | 3286円 | +9.5% |
+| [【ふるさと納税】黒毛和牛 福島牛 切り落とし 700g〜1.4kg 高評価★4.9 定期便 1回発送～12回発送 冷凍便 選べる パック 小分け 牛切り落とし 冷凍保存 肉 牛肉 焼肉 すき焼き しゃぶしゃぶ 赤身 人気 ランキング おすすめ グルメ ギフト 高レビュー](https://hb.afl.rakuten.co.jp/hgc/g00tjg2m.xmfg544c.g00tjg2m.xmfg6069/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff072117-tamura%2F10000047%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff072117-tamura%2Fi%2F10000053%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 1179円 | 1250円 | +6.1% |
+| [【ふるさと納税】【選べる】佐賀牛 赤身 スライス 焼肉 すき焼き しゃぶしゃぶ用【400g〜2.4kg or 3回〜12回 定期便】 ／ 牛肉 佐賀牛 赤身 スライス パック モモ ウデ すき焼き しゃぶしゃぶ 厚切り 薄切り BBQ A4 A5 黒毛和牛 ブランド牛 和牛 佐賀県 玄海町 冷凍配送](https://hb.afl.rakuten.co.jp/hgc/g00t6kam.xmfg53ac.g00t6kam.xmfg6fef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff413879-genkai%2Fc023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff413879-genkai%2Fi%2F10000197%2F&rafcid=wsc_i_is_a6cec18e-15af-4c14-bed7-4619aee119b5) | 375円 | 396円 | +5.5% |
+
+## 改定前に知っておきたいこと
+- **改定＝実質値上げ**のことが多い。同じ寄附額でも内容量が減る、または同じ量で寄附額が上がります。
+- **駆け込みは在庫切れに注意**。人気返礼品は改定直前に品切れしやすいです。
+- **最新の寄附額・内容量は申込前に必ず公式で確認**を。本ページは取得時点の集計です。
+
+## 📩 改定情報を毎週メールで受け取る
+値上げ予告・値上げ実績を、毎週まとめてメールでお届けします（無料）。
+
+👉 [無料で購読する](#)
+
+---
+
+※本ページは楽天ふるさと納税の公開情報の集計です。価格・還元率は取得時点のもの。リンクはアフィリエイトを含みます。
